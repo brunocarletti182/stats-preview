@@ -4,8 +4,9 @@
     
     body{
         flex-direction: column-reverse;
+        background-color: lightblue;
     }
-    
+
     .box1, .box2 {
         width: 100%;
     }
