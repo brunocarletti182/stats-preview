@@ -1,14 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 
 @media only screen and (max-width: 600px) {
-    
-    body{
-        flex-direction: column-reverse;
-        background-color: lightblue;
-    }
-
-    .box1, .box2 {
-        width: 100%;
+    body {
+      background-color: lightblue;
     }
   }
 
